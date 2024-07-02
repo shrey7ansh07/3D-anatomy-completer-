@@ -17,4 +17,4 @@ in this we have make a deep learning model for 3d anatomy reconstruction,where w
     cd Unet
     ```
 2. Run the `code.ipynb` file.
-![Description of the image](https://github.com/krishmittal1301/3D-anatomy-completer-/blob/main/Unet/WhatsApp%20Image%202024-05-07%20at%2010.55.53_28ebe640.jpg)
+![Result from UNET where left is incomplete image and right one is complete one](https://github.com/krishmittal1301/3D-anatomy-completer-/blob/main/Unet/WhatsApp%20Image%202024-05-07%20at%2010.55.53_28ebe640.jpg)
