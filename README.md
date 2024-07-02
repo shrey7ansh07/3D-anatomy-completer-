@@ -1,5 +1,8 @@
 # 3D-anatomy-Reconstruction-
-in this we have make a deep learning model for 3d anatomy reconstruction,where we apllied 3D unet and including skip connections
+### Working with 3D images has been a challenging task because of the issues like image having multiple and incompatible formats, large dimensions and massive size. These all problems make working with 3D images ineffecient even the GPU'S take plenty amount of time in building or reconstructing a 3D image.
+### The Deep Learing model we have optimized is medical images completer, the baseline model uses interpolation techniques to reduce all the image into a common dimension followed by using denoising auto-encoders to reconstruct the image.
+### We have optimized the accuracy for a given epoch, using concepts from googleNet and resNet architecture, the accuracy to reconstruct the image at about 50 epochs has been increased to double it's previous value on an average for every incomplete test image. 
+
 
 | Overview       | Details |
 | -------------- | ------- |
