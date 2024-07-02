@@ -4,7 +4,7 @@ in this we have make a deep learning model for 3d anatomy reconstruction,where w
 | Overview       | Details |
 | -------------- | ------- |
 | **Title**      | 3D Anatomy Reconstruction |
-| **Link to paper** | [Paper]([https://arxiv.org/abs/2309.04956]) |
+| **Link to paper** | [Paper](https://arxiv.org/abs/2309.04956) |
 | **Benchmark**  | Multi-class Anatomy Completor |
 | **Link to benchmark dataset** | [Download (multi-class)]((https://files.icg.tugraz.at/f/b0623306eb9246be8c3c/?dl=1)) |
 | **Data structure** | voxel occupancy grid |
