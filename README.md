@@ -19,3 +19,8 @@ in this we have make a deep learning model for 3d anatomy reconstruction,where w
 2. Run the `code.ipynb` file.
 ![Result from UNET where left is incomplete image and right one is complete one](https://github.com/krishmittal1301/3D-anatomy-completer-/blob/main/Unet/WhatsApp%20Image%202024-05-07%20at%2010.55.53_28ebe640.jpg)
 **Figure: Result from UNET where the left is the incomplete image and the right one is the complete one.**
+
+
+## Similarly we can run the code for skip connections and GoogleNet.
+![Result from UNET where left is incomplete image and right one is complete one](https://github.com/krishmittal1301/3D-anatomy-completer-/blob/main/Unet%2BSkip/WhatsApp%20Image%202024-05-14%20at%2016.10.08_2b9a161b.jpg)
+**Figure: Result from Unet+Skip connections.**
