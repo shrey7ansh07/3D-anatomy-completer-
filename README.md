@@ -1,4 +1,4 @@
-# 3D-anatomy-Reonstruction-
+# 3D-anatomy-Reconstruction-
 in this we have make a deep learning model for 3d anatomy reconstruction,where we apllied 3D unet and including skip connections
 
 | Overview       | Details |
@@ -9,3 +9,11 @@ in this we have make a deep learning model for 3d anatomy reconstruction,where w
 | **Link to benchmark dataset** | [Download (multi-class)](https://files.icg.tugraz.at/f/b0623306eb9246be8c3c/?dl=1) |
 | **Data structure** | voxel occupancy grid |
 | **Pretrained Model** | [Model](https://drive.google.com/drive/folders/15iy86nhCFKLpnIPgxniZjJqspSbZv3Ub?usp=drive_link ) |
+
+## To run the training Code for Unet
+
+1. Navigate to the `Unet` directory:
+    ```sh
+    cd Unet
+    ```
+2. Run the `code.ipynb` file.
